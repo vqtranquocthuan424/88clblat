@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+88clb | 88clb.lat - Thế giới giải trí đẳng cấp, chỉ có tại 88clb
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`88clb <https://88clb.lat/>`_ | 88clb.lat - Mở ra cánh cửa đến một thế giới giải trí đỉnh cao, nơi ước mơ trở thành hiện thực.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Hotline: 0982798845
 
-   This project is under active development.
+Địa chỉ: 148 Đ. Số 7, Phường 3, Gò Vấp, Hồ Chí Minh 700000, Việt Nam
 
-Contents
---------
+Zipcode: 700000
 
-.. toctree::
+Website: https://88clb.lat/
 
-   usage
-   api
+Hastag: #88clb #88clblat #88clbcom
